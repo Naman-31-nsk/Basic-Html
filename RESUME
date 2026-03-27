@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+
+<body>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAACUCAMAAAANv/M2AAAANlBMVEX////a2tqysrLd3d3X19eurq7q6url5eXt7e3S0tLw8PD7+/v4+Pji4uLHx8f19fW/v7+4uLj9PkyLAAAEQklEQVR4nO2b4c6rIAxAB0URnajv/7JXndvnNmxxWjC5PX9ucvMtnjQFaqm3myAIgiAIgiAIgiAIgiBcja6uq3Kmqusut00EtW1BgXoBAK2tc1tt09ytMsaob8b/tPcmt1+AroSQ7584lFfLlGoMMqY8aytb5fZcUQEl/Erxq2jXdJDX4b7CquzaHcqzdps9tyt8+QXJnCNNu9t4ps24/9XBXTkCY7JldvWj8qydKUXKA84jZY4UsYeUR2x657073TemTazc2MPOo3XiWJfHlSdsyryuznFOuofUJ+TGYp1sv25Ocx6tUyXI8Y1jJZ1oCzkroReSpHUXXfHHASkq1TOTYyJFgnQnOyfZQeKSAxbitLmdo8pR43w/jPTeRf0591okYwfKeV0Uemb81ztF/4bXmdzuwPV6MV68de9Ia95QU0U0eB3AU9as5V5HPNwMRUhaD1Rqc+7V+BsWmCGoPFujwTYln3ODPhnUpvNojUca+OqmOx7ofttZ6x4P9Z1NGl2G4TUYuRoZ37wwZ+WQ5JgTxKE/Z5NGs8OHN44Xhcd+bbic0bcsgytrYi2yVU1YSgMV6CnUWFZzJTXWIgUio+dQY9Jc9Qf6TDLQY6gzSGNnOJgYafRY5DnJa+SR4GKksXIPeFZijUWaXofUSuSRxmpp6jiMkOapmbCmY5Q0fpLnkD6cHuml1eGFmEP68D6dRZp21vpy0kdrDyZpvH1AV3kaL6h5pLHDZQR92Zro8d8znYh498IdCzTTMY43PeDQO6Jia33gT0W6HhNUv4ariUDMSaCVHn6wjHC11ulG3qY1sd0pvtct8voQNhcj2Tjluw4gO+TgQh3IYqCbvXz3idSTp9Xo9Ze2p9vqfH2PW9TogfPFSrsoPL4/L/C1xfAG5BMA1w/z9jcMvYu7LGJsQOKt3rU2KOecUdH3W4yt3j1jS9G+E5xNdfL64keA9fri+LRVGN65oJMnEJ4w336ePILwgPnyc8fU47wS4/Y79pGPKAtj3Ez4E4EvuJ3xqgnAOO/76U68eKAH751Bt78Uw1ebVfVo7PtBFx+1xyTe++0ub5Ippq1xoKlWQtjUTjIOtLHtBYvSt4j34cop0TxhYIrJ9TFtsYB2sinZz2FCUJ4K82IdKK2TTZu+7yDoRf4nw7t1yjH7t7QmuzTvvKVI0iH7VTMy6g5gzeq6mbMi/eY19I3PS4R5TlGYpOPTE48tJOra4pOlCZJ8vP42l9bwk/MykJB6uP7B+O61cw3+4TN9MnJrKmouBcFl+37LfhZHsRRFltx40O3e7x74vF/3qbgD/C3Mmr/qJyj3biCFT3ukBGnsd8sRC3PyE2WD+BwZsmfGHw0EOrzfQfacLbsfaOz46oLduRSDu0pirLlXvgh7TwPrFV8z9yj31i+96af99GWAva7wk3ttQc3dGqPA1tcXFgRBEARBEARBEARBEP47/gF0LzbDmIZz1QAAAABJRU5ErkJggg==" alt="Profile Photo">
+    <h1>NAMAN SK</h1>
+    <p>Computer Science Student</p>
+    <h2>Navigation</h2>
+    <a href="#about">About</a> |
+    <a href="#skills">Skills</a> |
+    <a href="#contact">Contact</a>
+    <h2 id="about">About Me</h2>
+    <p>I am a CSE student learning web development and programming.</p>
+    <h2 id="skills">Skills</h2>
+    <ul>
+        <li>C / C++</li>
+        <li>Python</li>
+        <li>HTML</li>
+    </ul>
+    <h2 id="contact">Contact</h2>
+    <p>Email: 
+        <a href="xyz123@email.com">your@email.com</a>
+    </p>
+    <p>
+        Visit my GitHub: 
+        <a href="visit after my al projects are ready" target="_blank">GitHub Profile</a>
+    </p>
+
+</body>
+</html>
